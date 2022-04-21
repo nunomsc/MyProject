@@ -1,0 +1,5 @@
+Versão 1
+
+- Fazer tutoriais de Game Maker 2
+- Procurar tutoriais de RPG Maker
+- Procurar por outros motores de desenvolvimento
