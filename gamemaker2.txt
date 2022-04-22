@@ -1,1 +1,20 @@
 Ficheiro de Game Maker 2
+
+game maker é composto por vários componentes entre eles os seguintes:
+
+- sprites
+- objects
+- rooms
+- sounds
+
+entre outros. (Á medida que vou usando cada vou desenvolvendo)
+
+Sprites, diz respeito a como o nome diz sprites. Serão todas as figuras usadas no jogo. Uma sprite tem várias definições entre elas a colisão definida no canto superior direito. Cada sprite poderá ter animações (requer mais que uma imagem na sprite), e podemos definir a ordem e o número de frames por segundo. Deve-se nomear cada sprite com a inicial spr, por exemplo, spr_player.
+
+Objects, são de uma forma generalizada, a codificação da sprite. As sprites terão um objeto associado. (A desenvolver)
+
+Rooms, são a àrea do jogo. Podemos definir background e as diferentes instancias (background sempre ultimo, instancias podem se sobrepor). Nas propriedades do background podemos definir as sprites que vao servir de background. Diferenças entre object and instance : object is a blueprint and instance is the actual creation. Basicamente é instanciar um objeto. Ao sobrepor instancias garanto que os objetos relevantes na instancia de topo não vão ficar sobrepostos.
+
+
+Atalhos:
+F12 - minimiza barras laterais
